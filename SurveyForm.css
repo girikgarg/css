@@ -1,0 +1,16 @@
+* {
+  background-image: url(https://i.pinimg.com/originals/2e/ac/8d/2eac8d062ab901d125ccaeb06ed37c26.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.heading1 {
+  text-align: center;
+}
+#newClass {
+  background-color: yellow;
+  color: yellow;
+}
+.text {
+  color: red;
+}
